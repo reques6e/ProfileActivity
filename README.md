@@ -3,6 +3,7 @@ GitHub profile activity for beauty (no abuse)
 
 🇬🇧
 <h2>Open the 'config.json' file to customize the script</h2>
+
 ```
 Config:
 ㅤㅤusername - Your login 
