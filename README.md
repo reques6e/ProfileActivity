@@ -2,6 +2,7 @@
 GitHub profile activity for beauty (no abuse)
 
 🇬🇧
+<h2>Open the 'config.json' file to customize the script</h2>
 ```
 Config:
 ㅤㅤusername - Your login 
@@ -10,6 +11,8 @@ Config:
 ㅤㅤtime - ReadME.md update interval
 ```
 🇷🇺
+<h2>Откройте файл 'config.json' для настройки скрипта</h2>
+
 ```
 Config:
 ㅤㅤusername - Ваш логин 
@@ -17,3 +20,5 @@ Config:
 ㅤㅤtoken - Ваш токен профиля github, который можно получить здесь - github.com/settings/tokens
 ㅤㅤtime - Интервал обновления ReadME.md
 ```
+
+<!--- Good Luck --->
