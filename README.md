@@ -15,7 +15,7 @@ Config:
 Now run the setup.bash file:
 `./setup.bash`.
 If an error occurs, write the command:
-`chmod +x setup.bash`.
+`chmod +x setup.bash && ./setup.bash`.
 
 # Instruction (Russian)
 <h2>Откройте файл 'config.json' для настройки скрипта</h2>
@@ -31,5 +31,5 @@ Config:
 Теперь запустите файл setup.bash:
 `./setup.bash`
 Если произошла ошибка, пропишите команду:
-`chmod +x setup.bash`
+`chmod +x setup.bash && ./setup.bash`
 <!--- Good Luck --->
